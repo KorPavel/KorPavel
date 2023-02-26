@@ -46,7 +46,7 @@ _**[ЭКЦ МВД России](https://xn--b1aew.xn--p1ai/mvd/structure1/Centri
     <td><b><a href="https://github.com/KorPavel/UI-UX-testing-FinTech-and-EdTech">UI/UX тестирование тестового сайта туристического интернет-магазина</a></b> для компании MVP.Group - Fintech</td>
 </tr>
 <tr>
-    <td><b><a href="https://github.com/KorPavel/21-6_API_PetFriends">Задание 21.6</a></b> Тестирование API сайта "PetFriends"</td>
+    <td><b><a href="https://github.com/KorPavel/21-6_API_PetFriends">Задание 21.6 "+ fixtures"</a></b> Тестирование API сайта "PetFriends"</td>
     <td><b><a href="https://github.com/KorPavel/25-5-1_Waits_PetFriends">Задание 25.5.1</a></b> - использование явных и неявных ожиданий при тестировании сайта "PetFriends"</td>
 </tr>
 <tr>
