@@ -34,24 +34,24 @@
 - Написание сложных тестов с использованием _Selenium_  
 
 ## ✔ _Опыт работы_
-_**[ЭКЦ МВД России](https://xn--b1aew.xn--p1ai/mvd/structure1/Centri/JEkspertno_kriminalisticheskij_centr)**_  1998 - 2022 Инженер-акустик. _Фоноскопическая экспертиза_.  
+_**[ЭКЦ МВД России](https://xn--b1aew.xn--p1ai/mvd/structure1/Centri/JEkspertno_kriminalisticheskij_centr)**_  **1998 - 2022** Инженер-акустик. _Фоноскопическая экспертиза_.  
 Боевого опыта тестирования нет. А учебный опыт представлен в следующих репозиториях:
 <table>
 <tr>
-    <td><a href="https://github.com/KorPavel/Skillfactory_Final_Project">Тестирование нового интерфейса авторизации в личном кабинете от заказчика «Ростелеком Информационные Технологии»</a> - Итоговый проект по автоматизации тестирования на учебной платформе SkillFactory</td>
-    <td><a href="https://github.com/KorPavel/Stepik_Fin_projeckt">UI-тестирование книжного интернет-магазина</a> - Итоговый проект по автоматизации тестирования с помощью Selenium и Python на учебной платформе "Stepik"</td>
+    <td><b><a href="https://github.com/KorPavel/Skillfactory_Final_Project">Тестирование нового интерфейса авторизации в личном кабинете от заказчика «Ростелеком Информационные Технологии»</a></b> - Итоговый проект по автоматизации тестирования на учебной платформе SkillFactory</td>
+    <td><b><a href="https://github.com/KorPavel/Stepik_Fin_projeckt">UI-тестирование книжного интернет-магазина</a></b> - Итоговый проект по автоматизации тестирования с помощью Selenium и Python на учебной платформе "Stepik"</td>
 </tr>
 <tr>
-    <td>Применение паттерна Page Object Model при <a href="https://github.com/KorPavel/Testing_Podvorje">UI-тестировании садоводческого интернет-магазина "Подворье"</a></td>
-    <td><a href="https://github.com/KorPavel/UI-UX-testing-FinTech-and-EdTech">UI/UX тестирование тестового сайта туристического интернет-магазина</a> для компании MVP.Group - Fintech</td>
+    <td>Применение паттерна Page Object Model при <b><a href="https://github.com/KorPavel/Testing_Podvorje">UI-тестировании садоводческого интернет-магазина "Подворье"</a></b></td>
+    <td><b><a href="https://github.com/KorPavel/UI-UX-testing-FinTech-and-EdTech">UI/UX тестирование тестового сайта туристического интернет-магазина</a></b> для компании MVP.Group - Fintech</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/KorPavel/21-6_API_PetFriends">Задание 21.6</a> Тестирование API сайта "PetFriends"</td>
-    <td><a href="https://github.com/KorPavel/25-5-1_Waits_PetFriends">Задание 25.5.1</a> - использование явных и неявных ожиданий при тестировании сайта "PetFriends"</td>
+    <td><b><a href="https://github.com/KorPavel/21-6_API_PetFriends">Задание 21.6</a></b> Тестирование API сайта "PetFriends"</td>
+    <td><b><a href="https://github.com/KorPavel/25-5-1_Waits_PetFriends">Задание 25.5.1</a></b> - использование явных и неявных ожиданий при тестировании сайта "PetFriends"</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/KorPavel/19-7-2_PetFriends">Задание 19.7.2 "Testing API PetFriends"</a></td>
-    <td><a href="">Задание 19.3.3 "Testing API PetStore"</a> - Использовать свободное API для написания запросов GET, POST, DELETE, PUT</td>
+    <td><b><a href="https://github.com/KorPavel/19-7-2_PetFriends">Задание 19.7.2 "Testing API PetFriends"</a></b></td>
+    <td><b><a href="">Задание 19.3.3 "Testing API PetStore"</a></b> - Использовать свободное API для написания запросов GET, POST, DELETE, PUT</td>
 </tr>
 </table>
 
